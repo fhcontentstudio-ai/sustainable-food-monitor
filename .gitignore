@@ -5,4 +5,5 @@ __pycache__/
 data/signals.csv
 data/evidence_summary.json
 data/decision.json
-reports/
+reports/*
+!reports/examples/
